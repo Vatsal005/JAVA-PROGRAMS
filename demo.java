@@ -1,3 +1,4 @@
+// Write a java program which use final finalize ang gc collect.
 public class demo {
     public static void main(String[] args) {
         demo d = new demo();
