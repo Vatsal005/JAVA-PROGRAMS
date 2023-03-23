@@ -1,3 +1,4 @@
+// Create a Java program called Person_Faculty.java. Create a class Person with data members name, birth date and gender. Create another class faculty that inherits from class Person with data member title that holds values such as “assistant professor” or “professor”. Include a constructor and get and display methods for titles.
 import java.util.Scanner;
 
 class person{
