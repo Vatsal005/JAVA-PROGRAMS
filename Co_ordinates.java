@@ -1,3 +1,11 @@
+/* 
+Declare a class called coordinate to represent 3 dimensional Cartesian coordinates( x, y and z). Define following methods: 
+- constructor
+- display, to print values of members
+- add_coordinates, to add three such coordinate objects to produce a resultant coordinate object. 
+- main, to show use of above methods.
+*/
+
 import java.util.Scanner;
 
 public class Co_ordinates{
