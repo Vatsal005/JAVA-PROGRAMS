@@ -1,3 +1,5 @@
+// Write a program to perform all types of Literals.
+
 public class literals {
     public static void main(String[] args) {
         int i = 10;
